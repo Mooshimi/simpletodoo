@@ -28,15 +28,15 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ShareX](https://getsharex.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges with uploading the whole file structure to git, eventually figured it was easiest for me to use github desktop which I've been working with for a bit now.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2022 Trinity Whitehead
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
